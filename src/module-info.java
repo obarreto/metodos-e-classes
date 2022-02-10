@@ -1,0 +1,2 @@
+module MtdsClass1 {
+}
